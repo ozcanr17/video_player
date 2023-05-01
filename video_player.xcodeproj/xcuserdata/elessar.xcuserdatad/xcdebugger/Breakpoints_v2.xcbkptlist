@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B746D813-2B0E-4F21-9C1F-D361E14B8BE7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EE5E7101-668D-40D7-A0AD-23D3769880C5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "video_player/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "playVideo()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EE5E7101-668D-40D7-A0AD-23D3769880C5 - 483370081b191b44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "video_player.ViewController.playVideo() -&gt; ()"
+                  moduleName = "video_player"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elessar/Desktop/xCode%20Repository/video_player/video_player/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "272">
+               </Location>
+               <Location
+                  uuid = "EE5E7101-668D-40D7-A0AD-23D3769880C5 - 483370081b191b44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "video_player.ViewController.playVideo() -&gt; ()"
+                  moduleName = "video_player"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elessar/Desktop/xCode%20Repository/video_player/video_player/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "356">
+               </Location>
+               <Location
+                  uuid = "EE5E7101-668D-40D7-A0AD-23D3769880C5 - 483370081b191b44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "video_player.ViewController.playVideo() -&gt; ()"
+                  moduleName = "video_player"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elessar/Desktop/xCode%20Repository/video_player/video_player/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "280">
+               </Location>
+               <Location
+                  uuid = "EE5E7101-668D-40D7-A0AD-23D3769880C5 - 483370081b191b44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "video_player.ViewController.playVideo() -&gt; ()"
+                  moduleName = "video_player"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elessar/Desktop/xCode%20Repository/video_player/video_player/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "536">
+               </Location>
+               <Location
+                  uuid = "EE5E7101-668D-40D7-A0AD-23D3769880C5 - 483370081b191b44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "video_player.ViewController.playVideo() -&gt; ()"
+                  moduleName = "video_player"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elessar/Desktop/xCode%20Repository/video_player/video_player/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "EE5E7101-668D-40D7-A0AD-23D3769880C5 - 483370081b191b44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "video_player.ViewController.playVideo() -&gt; ()"
+                  moduleName = "video_player"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elessar/Desktop/xCode%20Repository/video_player/video_player/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "476">
+               </Location>
+               <Location
+                  uuid = "EE5E7101-668D-40D7-A0AD-23D3769880C5 - 483370081b191b44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "video_player.ViewController.playVideo() -&gt; ()"
+                  moduleName = "video_player"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elessar/Desktop/xCode%20Repository/video_player/video_player/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "EE5E7101-668D-40D7-A0AD-23D3769880C5 - 483370081b191b44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "video_player.ViewController.playVideo() -&gt; ()"
+                  moduleName = "video_player"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elessar/Desktop/xCode%20Repository/video_player/video_player/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "368">
+               </Location>
+               <Location
+                  uuid = "EE5E7101-668D-40D7-A0AD-23D3769880C5 - 483370081b1918a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "video_player.ViewController.playVideo() -&gt; ()"
+                  moduleName = "video_player"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elessar/Desktop/xCode%20Repository/video_player/video_player/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "EE5E7101-668D-40D7-A0AD-23D3769880C5 - 483370081b1918a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "video_player.ViewController.playVideo() -&gt; ()"
+                  moduleName = "video_player"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elessar/Desktop/xCode%20Repository/video_player/video_player/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "368">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
